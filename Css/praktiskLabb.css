@@ -1,0 +1,25 @@
+.fa {
+
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.8;
+}
+
+.fa-facebook {
+  color: white;
+ }
+
+.fa-twitter{
+	color: white;
+}
+.fa-instagram{
+	color: white;
+}
+.fa-google{
+	color: white;
+}
